@@ -7,4 +7,4 @@ This tool is designed for education purpose only to learn testing and security  
 
 #collector.php keep it in your own device or anywhere location where you want to fetch env data.
 
-call url of https://...extractor.php  thats it ..env file will be there in your pocket.
+call url of https://...extractor.php  that's it ..env file will be there in your pocket.
