@@ -1,6 +1,6 @@
 # envExfiltrator
 expose env data 
-
+⚠️ This project is intended strictly for security awareness, research, and defensive education. Always test only in environments you own or have explicit permission to assess.
 This tool is designed for education purpose only to learn testing and security  any misuse or misconduct author will not responsible .use wisely.
 
 #upload extractor.php to  target  location 
