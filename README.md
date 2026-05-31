@@ -1,0 +1,2 @@
+# envExfiltrator
+expose env data 
